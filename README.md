@@ -13,9 +13,9 @@ What have I used and encountered up to this point?<br><br>
      👉🏻  Basics of **Git** and using the **Terminal**<br>
      👉🏻  Simultaneously working on **Python** basics (mainly regarding creating Bioinformatics programs)<br><br>
      
-What I want to get to know in the foreesable future?
-     👉🏻 React.js / React Native
-     👉🏻 Boostrap
+What I want to get to know in the foreesable future?<br>
+     👉🏻 React.js / React Native<br>
+     👉🏻 Boostrap<br>
      👉🏻 TypeScript<br><br>
 
 Nice to see you here!<br>
