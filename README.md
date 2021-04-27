@@ -1,12 +1,25 @@
-✋ Hi, I’m Kacper Łuczak - for everyone to know how to pronounce my last name I've Englished it to my login @wooczak.<br><br>
-👨‍💻 I’m mainly interested in Front-End Development, but want to expand my knowledge towards Back-End in the foreseeable future (nodeJS!).<br><br>
-🌱 I’m currently learning vanillaJS and ✨ CSS "facilitators" ✨ such as BEM methodology and SCSS. My go-to is React, but I also want to get to know Angular.<br><br>
+✋ Hi, I’m Kacper from Kraków, Poland!<br><br>
+👨‍💻 I’m mainly interested in Front-End Development, exploring it and improving my skills everyday!<br><br>
+🌱 I’m currently learning vanillaJS and ✨ CSS with superpowers ✨ such as BEM methodology and Sass. My go-to is React, but I want to get to know Angular as well.<br><br>
 
-📫 If you want to reach me, you can reach me:<br>
-     <li>On Facebook: http://bit.ly/wooczak-fb 
-     <li>Via E-mail: kacper.luczak99@gmail.com
+📫 If you want to reach me, you can do it:<br>
+     <li>On Facebook: http://bit.ly/wooczak-fb<br>
+     <li>Via E-mail: kacper.luczak99@gmail.com<br><br>
      
-💻 I've been coding for more than a year now, mainly pumping out as much as possible from vanillaCSS3 + semantic HTML5. Having met vanillaJS and SCSS, I found many great ways to imply my ideas to the websites I make in an easier and clearer way - I've already created three commercial WWWs for my closest friends. They were the best sandboxes for improving my knowledge and I can't wait to create more!
+What have I used and encountered up to this point?<br><br>
+     👉🏻  Semantic **HTML5** (with deepdiving into Emmet in VSCode to make my workflow faster and more effective)<br>
+     👉🏻  Basic and more advanced **CSS3** (CSS Grid, Flexbox, media queries, CSS variables, **Sass** - overall trying to make the code as clean as possible)<br>
+     👉🏻  **VanillaJS** (DOM manipulation, Async/Await (and XHR), ES6+ JS; now learning Try...Catch Error Handling + CRUD Front-End with Babel & webpack later on)<br>
+     👉🏻  Basics of **Git** and using the **Terminal**<br>
+     👉🏻  Simultaneously working on **Python** basics (mainly regarding creating Bioinformatics programs)<br><br>
+     
+What I want to get to know in the foreesable future?
+     👉🏻 React.js / React Native
+     👉🏻 Boostrap
+     👉🏻 TypeScript<br><br>
+
+Nice to see you here!<br>
+Have a great day
 
 <!---
 wooczak/wooczak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
