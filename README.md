@@ -16,7 +16,7 @@ What have I used and encountered up to this point?<br><br>
 What I want to get to know in the foreesable future?<br>
      👉🏻 React.js / React Native<br>
      👉🏻 Bootstrap or/and Materialize CSS<br>
-     👉🏻 TypeScript<br><br>
+     👉🏻 TypeScript<br>
      👉🏻 Node.js<br><br>
 
 Nice to see you here!<br>
