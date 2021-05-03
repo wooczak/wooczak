@@ -17,6 +17,7 @@ What I want to get to know in the foreesable future?<br>
      👉🏻 React.js / React Native<br>
      👉🏻 Bootstrap or/and Materialize CSS<br>
      👉🏻 TypeScript<br><br>
+     👉🏻 Node.js<br><br>
 
 Nice to see you here!<br>
 Have a great day
