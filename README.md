@@ -1,6 +1,6 @@
 ✋ Hi, I’m Kacper from Kraków, Poland!<br><br>
 👨‍💻 I’m mainly interested in Front-End Development, exploring it and improving my skills everyday!<br><br>
-🌱 I’m currently learning vanillaJS and ✨ CSS with superpowers ✨ such as BEM methodology and Sass. My go-to is React, but I want to get to know Angular as well.<br><br>
+🌱 I’m currently learning **ReactJS**!<br><br>
 
 📫 If you want to reach me, you can do it:<br>
      <li>On Facebook: http://bit.ly/wooczak-fb<br>
