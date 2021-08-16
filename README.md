@@ -11,7 +11,7 @@ What have I used and encountered up to this point?<br><br>
      👉🏻  Basic and more advanced **CSS3** (CSS Grid, Flexbox, media queries, CSS variables, **Sass** - overall trying to make the code as clean as possible)<br>
      👉🏻  **VanillaJS** (DOM manipulation, Async/Await (and XHR), ES6+ JS)<br>
      👉🏻  Basics of **Git** and using the **Terminal**<br>
-     👉🏻  3-weeks of an intensive **Python** basics' course (mainly regarding creating Bioinformatics programs)<br><br>
+     👉🏻  3 weeks of an intensive **Python** basics' course (mainly regarding creating Bioinformatics programs)<br><br>
      
 What I want to get to know in the foreesable future?<br>
      👉🏻 React.js / React Native<br>
