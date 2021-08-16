@@ -7,7 +7,7 @@
      <li>Via E-mail: kacper.luczak99@gmail.com<br><br>
      
 What have I used and encountered up to this point?<br><br>
-     👉🏻  Semantic **HTML5** (with deepdiving into Emmet in VSCode to make my workflow faster and more effective)<br>
+     👉🏻  Semantic **HTML5** (with deepdiving into Emmet in VSCode to make my workflow faster and more effective + HTML5 SEO basics to make the website look better for Google)<br>
      👉🏻  Basic and more advanced **CSS3** (CSS Grid, Flexbox, media queries, CSS variables, **Sass** - overall trying to make the code as clean as possible)<br>
      👉🏻  **VanillaJS** (DOM manipulation, Async/Await (and XHR), ES6+ JS)<br>
      👉🏻  Basics of **Git** and using the **Terminal**<br>
