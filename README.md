@@ -14,9 +14,8 @@ What have I used and encountered up to this point?<br><br>
      👉🏻  3 weeks of an intensive **Python** basics' course (mainly regarding creating Bioinformatics programs)<br><br>
      
 What I want to get to know in the foreesable future?<br>
-     👉🏻 React.js / React Native<br>
-     👉🏻 Node.js / MERN Stack<br>
-     👉🏻 Bootstrap or/and Materialize CSS<br>
+     👉🏻 React Native<br>
+     👉🏻 Bootstrap / Materialize CSS / Tailwind CSS<br>
      👉🏻 TypeScript<br><br>
      
 
