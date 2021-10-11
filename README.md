@@ -3,6 +3,7 @@
 🌱 I’m currently learning **ReactJS** and **MERN Stack**!<br><br>
 
 📫 If you want to reach me, you can do it:<br>
+     <li>On LinkedIn: http://linkedin.com/in/kacperluczak<br>
      <li>On Facebook: http://bit.ly/wooczak-fb<br>
      <li>Via E-mail: kacper.luczak99@gmail.com<br><br>
      
