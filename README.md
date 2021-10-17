@@ -1,6 +1,6 @@
 ✋ Hi, I’m Kacper from Kraków, Poland!<br><br>
 👨‍💻 I’m mainly interested in Front-End Development, exploring it and improving my skills everyday!<br><br>
-🌱 I’m currently learning **ReactJS** and **MERN Stack**!<br><br>
+🌱 I’m currently learning **ReactJS**, **Redux**, **NextJS** and **MERN Stack**!<br><br>
 
 📫 If you want to reach me, you can do it:<br>
      <li>On LinkedIn: http://linkedin.com/in/kacperluczak<br>
