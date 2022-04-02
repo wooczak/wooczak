@@ -12,7 +12,7 @@ What have I used and encountered up to this point?<br><br>
      👉🏻  Basic and more advanced **CSS3** (CSS Grid, Flexbox, media queries, CSS variables, RWD, **Sass** - overall trying to make the code as clean as possible)<br>
      👉🏻  **VanillaJS** (DOM manipulation, Async/Await, XHR, ES6+ JS)<br>
      👉🏻  **React.js** (with React Router DOM & Axios, Context API, basics of Redux, always **trying to be up-to-date!**)<br>
-     👉🏻  **Next.js** (with Fela CSS-in-JS)<br
+     👉🏻  **Next.js** (with Fela CSS-in-JS)<br>
      👉🏻  **TypeScript** (with Fela CSS-in-JS)<br>
      👉🏻  Basics of **Git** and using the **Terminal**<br>
      👉🏻  3 weeks of an intensive **Python** basics' course (mainly regarding creating Bioinformatics programs)<br><br>
